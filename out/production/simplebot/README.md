@@ -1,2 +1,0 @@
-# simplebot
-Projet hyperskill - SimpleBot
